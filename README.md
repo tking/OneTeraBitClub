@@ -1,6 +1,6 @@
 # OneTerraBitClub
 
-This is a list of IXPs that are members of the fancy "1 TerraBit Club". An IXP can only be member of the "1 TerraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps.
+This is a list of IXPs that are members of the fancy "1 TerraBit Club". An IXP can only be a member of the "1 TerraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps!
 
 The selected members of the "1 TerraBit Club" are:
 * AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
