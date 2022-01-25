@@ -14,6 +14,7 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * LINX: https://portal.linx.net/okta-login
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
+* NYIIX NYC: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
 * SIX: https://www.seattleix.net/statistics/
 * Torix: https://www.torix.ca/traffic-statistics/
