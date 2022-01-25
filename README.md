@@ -8,11 +8,13 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * DE-CIX NYC: https://de-cix.net/en/locations/new-york/statistics
 * France-IX PAR: https://www.franceix.net/en/pops-en/france-ix-paris
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
+* JPIX: https://www.jpix.ad.jp/en/technical_traffic.php
 * LINX: https://portal.linx.net/okta-login
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
 * NIX.CZ: https://www.nix.cz/en
 * SIX: https://www.seattleix.net/statistics/
 * Torix: https://www.torix.ca/traffic-statistics/
+* TPIX: http://www.tpix.pl/en/statystyki_en.html
 * Espanix: http://stats.espanix.net/
 * VIX: https://www.vix.at/vix_statistics.html
 
