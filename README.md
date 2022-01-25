@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/tking/OneTeraBitClub/blob/main/oneterabit.jpg?raw=true)
 
-This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps!
+This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
 The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
@@ -25,9 +25,9 @@ The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * NLix: https://www.nl-ix.net/network/traffic-stats/
 * NYIIX NYC: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
+* NIX.SK: https://nix.sk/sk
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
-* NIX.SK: https://nix.sk/sk
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
 * SIX: https://www.seattleix.net/statistics/
 * Torix: https://www.torix.ca/traffic-statistics/
