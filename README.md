@@ -34,6 +34,9 @@ The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
 * VIX: https://www.vix.at/vix_statistics.html
 
+The "1 TeraBit Club" currently exists of 28 members.
+
+
 Please create a Pull Request if you find a member of the "1 TeraBit Club" is missing!
 
 The picture is taken from NAPAfrica. Thanks for creating it! :-)
