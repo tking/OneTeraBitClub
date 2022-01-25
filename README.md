@@ -22,3 +22,5 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * VIX: https://www.vix.at/vix_statistics.html
 
 Please create a Pull Request if you find a member of the "1 TeraBit Club" is missing!
+
+The picture is taken from NAPAfrica. Thanks for creating it! :-)
