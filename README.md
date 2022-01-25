@@ -16,6 +16,7 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
 * NYIIX NYC: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
+* SGIX: https://www.sgix.sg/services/traffic-statistics/
 * SIX: https://www.seattleix.net/statistics/
 * Torix: https://www.torix.ca/traffic-statistics/
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
