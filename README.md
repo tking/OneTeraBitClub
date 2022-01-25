@@ -6,18 +6,27 @@ This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP ca
 
 The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
+* DataIX: https://www.dataix.eu/en
 * DE-CIX FRA: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX NYC: https://de-cix.net/en/locations/new-york/statistics
+* dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
 * France-IX PAR: https://www.franceix.net/en/pops-en/france-ix-paris
+* giganet.ua: https://giganet.ua/en/statistics
+* HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * JPIX: https://www.jpix.ad.jp/en/technical_traffic.php
 * LINX: https://portal.linx.net/okta-login
+* MICE: http://micelg.usinternet.com/export/graph_2624.html
+* MIX: https://www.mix-it.net/
 * MSK-IX: https://www.msk-ix.ru/en/traffic/
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
+* NLix: https://www.nl-ix.net/network/traffic-stats/
 * NYIIX NYC: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
+* peering.cz: https://www.peering.cz/
+* PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
 * NIX.SK: https://nix.sk/sk
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
 * SIX: https://www.seattleix.net/statistics/
