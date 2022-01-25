@@ -1,6 +1,6 @@
 # OneTerraBitClub
 
-This is a list of IXPs that are members of the fancy "1 TerraBit Club". An IXP can only be a member of the "1 TerraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps!
+This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps!
 
 The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
@@ -19,4 +19,4 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * Espanix: http://stats.espanix.net/
 * VIX: https://www.vix.at/vix_statistics.html
 
-Please create a Pull Request if you find a member of the "1 TerraBit Club" is missing!
+Please create a Pull Request if you find a member of the "1 TeraBit Club" is missing!
