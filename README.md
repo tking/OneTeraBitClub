@@ -10,6 +10,7 @@ The selected members of the "1 TerraBit Club" are (as of 01/25/2022):
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * JPIX: https://www.jpix.ad.jp/en/technical_traffic.php
 * LINX: https://portal.linx.net/okta-login
+* NAPAfrica: https://www.napafrica.net/peering-traffic/
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
 * NIX.CZ: https://www.nix.cz/en
 * SIX: https://www.seattleix.net/statistics/
