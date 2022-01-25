@@ -1,6 +1,6 @@
 # OneTeraBitClub
 
-
+![alt text](https://github.com/tking/OneTeraBitClub/blob/main/oneterabit.jpg?raw=true)
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if the publicly available traffic graphs show a peak traffic of more than 1 Tbps!
 
