@@ -6,6 +6,7 @@ This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP ca
 
 The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
+* BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * DataIX: https://www.dataix.eu/en
 * DE-CIX FRA: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX NYC: https://de-cix.net/en/locations/new-york/statistics
@@ -17,6 +18,8 @@ The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * JPIX: https://www.jpix.ad.jp/en/technical_traffic.php
+* JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
+* JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
 * LINX: https://portal.linx.net/okta-login
 * MICE: http://micelg.usinternet.com/export/graph_2624.html
 * MIX: https://www.mix-it.net/
