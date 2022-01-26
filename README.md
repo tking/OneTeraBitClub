@@ -15,8 +15,9 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
-* IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
+* IX.br São Paulo: https://ix.br/trafego/agregado/sp
+* IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
 * JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
