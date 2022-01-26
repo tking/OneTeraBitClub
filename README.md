@@ -17,7 +17,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
-* JPIX: https://www.jpix.ad.jp/en/technical_traffic.php
+* JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
 * LINX: https://portal.linx.net/okta-login
