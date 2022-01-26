@@ -5,14 +5,14 @@
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
 The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
-* AMS-IX AMS: https://www.ams-ix.net/ams/documentation/total-stats
+* AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * DataIX: https://www.dataix.eu/en
-* DE-CIX FRA: https://de-cix.net/en/locations/frankfurt/statistics
-* DE-CIX NYC: https://de-cix.net/en/locations/new-york/statistics
+* DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
+* DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
-* France-IX PAR: https://www.franceix.net/en/pops-en/france-ix-paris
+* France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
@@ -27,7 +27,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/25/2022):
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
 * NLix: https://www.nl-ix.net/network/traffic-stats/
-* NYIIX NYC: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
+* NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
 * NIX.SK: https://nix.sk/sk
 * peering.cz: https://www.peering.cz/
