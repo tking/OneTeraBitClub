@@ -12,6 +12,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
+* Extreme IX: https://extreme-ix.org/technical/statistics/
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
