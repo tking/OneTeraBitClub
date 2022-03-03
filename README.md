@@ -9,6 +9,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * DataIX: https://www.dataix.eu/en
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
+* DE-CIX Mumbai: 
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
