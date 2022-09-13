@@ -33,7 +33,6 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * NLix: https://www.nl-ix.net/network/traffic-stats/
 * NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
-* NIX.SK: https://nix.sk/sk
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
