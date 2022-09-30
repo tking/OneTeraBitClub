@@ -10,6 +10,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * DataIX: https://www.dataix.eu/en
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX Madrid: https://www.de-cix.net/en/locations/madrid/statistics
+* DE-CIX Mumbai: https://de-cix.in/statistics
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
