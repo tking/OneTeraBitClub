@@ -4,7 +4,7 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
+The selected members of the "1 TeraBit Club" are (as of 12/14/2022):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * DataIX: https://www.dataix.eu/en
