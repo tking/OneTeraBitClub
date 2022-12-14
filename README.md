@@ -12,12 +12,14 @@ The selected members of the "1 TeraBit Club" are (as of 01/26/2022):
 * DE-CIX Madrid: https://www.de-cix.net/en/locations/madrid/statistics
 * DE-CIX Mumbai: https://de-cix.in/statistics
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
+* DETROITIX: https://www.detroitix.com/#stats
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Espanix: http://stats.espanix.net/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
+* INEX: https://www.inex.ie/ixp/statistics/ixp
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
