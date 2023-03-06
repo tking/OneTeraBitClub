@@ -19,7 +19,7 @@ The selected members of the "1 TeraBit Club" are (as of 02/18/2023):
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
-* IIX: https://nms.iix.net.id/
+* IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
@@ -46,7 +46,7 @@ The selected members of the "1 TeraBit Club" are (as of 02/18/2023):
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 39 members.
+The "1 TeraBit Club" currently consists of 40 members.
 
 
 Please create a Pull Request if you find a member of the "1 TeraBit Club" is missing!
