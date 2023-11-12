@@ -42,6 +42,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
+* Speed-IX: https://speed-ix.net/statistic/
 * SIX: https://www.seattleix.net/statistics/
 * THINX Warsaw: https://www.atman.pl/en/services/data-connection/thinx-ix/
 * Torix: https://www.torix.ca/traffic-statistics/
