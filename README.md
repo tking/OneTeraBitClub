@@ -36,7 +36,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
 * NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
 * Netix.net: https://www.netix.net/graphs
-* NLix: https://www.nl-ix.net/network/traffic-stats/
+* NLix: https://www.nl-ix.net/locations/frankfurt/
 * NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
 * peering.cz: https://www.peering.cz/
@@ -49,7 +49,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 42 members.
+The "1 TeraBit Club" currently consists of 44 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
