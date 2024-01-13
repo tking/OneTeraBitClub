@@ -48,6 +48,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * THINX Warsaw: https://www.atman.pl/en/services/data-connection/thinx-ix/
 * Torix: https://www.torix.ca/traffic-statistics/
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
+* True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
 The "1 TeraBit Club" currently consists of 44 members.
