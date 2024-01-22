@@ -52,7 +52,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 45 members.
+The "1 TeraBit Club" currently consists of 46 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
