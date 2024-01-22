@@ -16,6 +16,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * DETROITIX: https://www.detroitix.com/#stats
 * dtel-ix: https://dtel-ix.net/en/ix/stats
+* ERA-IX: https://www.era-ix.com/statistics
 * Espanix: http://stats.espanix.net/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
