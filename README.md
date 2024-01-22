@@ -10,6 +10,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * BCIX: https://www.bcix.de/en/traffic
 * CABASE: https://ixp.cabase.org.ar/estadisticas.html
 * DataIX: https://www.dataix.eu/en
+* DE-CIX Dallas: https://de-cix.net/en/locations/dallas/statistics
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX Madrid: https://www.de-cix.net/en/locations/madrid/statistics
 * DE-CIX Mumbai: https://de-cix.in/statistics
@@ -52,7 +53,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 46 members.
+The "1 TeraBit Club" currently consists of 47 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
