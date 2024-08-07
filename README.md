@@ -19,15 +19,16 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * dtel-ix: https://dtel-ix.net/en/ix/stats
 * Equinix Chicago: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Dallas: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Hong Kong: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Miami: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Mumbai: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix New York: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix San Jose: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Sao Paulo: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Hong Kong: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Mumbai: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Singapore: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Tokyo: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
 * ERA-IX: https://www.era-ix.com/statistics
 * Espanix: http://stats.espanix.net/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
@@ -64,7 +65,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 58 members.
+The "1 TeraBit Club" currently consists of 59 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
