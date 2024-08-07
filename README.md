@@ -40,6 +40,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
+* JKT-IX: https://ixpmanager.jktix.com/statistics/ixp
 * JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
@@ -54,6 +55,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * NLix: https://www.nl-ix.net/locations/frankfurt/
 * NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
+* OpenIXP: https://openixp.net/
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
@@ -65,7 +67,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/29/2023):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 59 members.
+The "1 TeraBit Club" currently consists of 61 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
