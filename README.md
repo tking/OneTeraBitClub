@@ -18,18 +18,18 @@ The selected members of the "1 TeraBit Club" are (as of 08/21/2024):
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * DETROITIX: https://www.detroitix.com/#stats
 * dtel-ix: https://dtel-ix.net/en/ix/stats
-* Equinix Chicago: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Dallas: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Chicago: https://www.de-cix.net/en/locations/chicago/statistics
+* Equinix Dallas: https://de-cix.net/en/locations/dallas/statistics
 * Equinix Hong Kong: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Miami: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Mumbai: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix New York: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Mumbai: https://www.de-cix.in/de-cix-mumbai/?source=de-cixwebsite
+* Equinix New York: https://www.de-cix.net/en/locations/new-york/statistics
 * Equinix San Jose: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Sao Paulo: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Singapore: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Tokyo: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Singapore: https://www.de-cix.net/en/asia/statistics
+* Equinix Tokyo: https://de-cix.net/en/locations/tokyo
 * Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Warsaw: https://www.de-cix.net/en/locations/warsaw
 * ERA-IX: https://www.era-ix.com/statistics
 * Espanix: http://stats.espanix.net/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
