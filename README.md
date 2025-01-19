@@ -4,7 +4,7 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The selected members of the "1 TeraBit Club" are (as of 08/21/2024):
+The selected members of the "1 TeraBit Club" are (as of 01/19/2025):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BCIX: https://www.bcix.de/en/traffic
@@ -60,6 +60,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/21/2024):
 * OpenIXP: https://openixp.net/
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
+* SAIX: https://www.saix.sa/en/services/statistics/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
 * Speed-IX: https://speed-ix.net/statistic/
 * SIX: https://www.seattleix.net/statistics/
@@ -69,7 +70,7 @@ The selected members of the "1 TeraBit Club" are (as of 08/21/2024):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 63 members.
+The "1 TeraBit Club" currently consists of 64 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
