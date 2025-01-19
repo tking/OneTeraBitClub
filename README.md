@@ -18,6 +18,8 @@ The selected members of the "1 TeraBit Club" are (as of 01/19/2025):
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * DETROITIX: https://www.detroitix.com/#stats
 * dtel-ix: https://dtel-ix.net/en/ix/stats
+* EPIX.Katowice: https://www.epix.net.pl/narzedzia/statystyki-epix/
+* EPIX.Warsaw: https://www.epix.net.pl/narzedzia/statystyki-epix/
 * Equinix Chicago: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Dallas: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Hong Kong: https://ix.equinix.com/home/locations-and-traffic/
@@ -70,7 +72,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/19/2025):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * VIX: https://www.vix.at/vix_statistics.html
 
-The "1 TeraBit Club" currently consists of 64 members.
+The "1 TeraBit Club" currently consists of 66 members.
 
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
