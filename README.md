@@ -20,6 +20,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/19/2025):
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * DETROITIX: https://www.detroitix.com/#stats
 * dtel-ix: https://dtel-ix.net/en/ix/stats
+* EdgeIX Sydney: https://metrics.edgeix.net
 * EPIX.Katowice: https://www.epix.net.pl/narzedzia/statystyki-epix/
 * EPIX.Warsaw: https://www.epix.net.pl/narzedzia/statystyki-epix/
 * Equinix Chicago: https://ix.equinix.com/home/locations-and-traffic/
