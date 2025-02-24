@@ -4,7 +4,7 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 67 members.
+The "1 TeraBit Club" currently consists of 66 members.
 
 The selected members of the "1 TeraBit Club" are (as of 02/24/2025):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
@@ -27,7 +27,6 @@ The selected members of the "1 TeraBit Club" are (as of 02/24/2025):
 * Equinix Dallas: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Hong Kong: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Miami: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Mumbai: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix New York: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix San Jose: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Sao Paulo: https://ix.equinix.com/home/locations-and-traffic/
