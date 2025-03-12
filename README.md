@@ -14,13 +14,13 @@ The selected members of the "1 TeraBit Club" are (as of 03/06/2025):
 * CABASE: https://ixp.cabase.org.ar/estadisticas.html
 * CIX-ATL: https://www.communityix.org/cix-atl-networks-traffic/
 * DataIX: https://www.dataix.eu/en
-* DE-CIX Dallas: https://de-cix.net/en/locations/dallas/statistics
+* DE-CIX Dallas: https://www.de-cix.net/en/locations/dallas/statistics
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX Madrid: https://www.de-cix.net/en/locations/madrid/statistics
-* DE-CIX Mumbai: https://de-cix.in/statistics
+* DE-CIX Mumbai: https://www.de-cix.in/de-cix-mumbai/
 * DE-CIX New York: https://de-cix.net/en/locations/new-york/statistics
 * DETROITIX: https://www.detroitix.com/#stats
-* dtel-ix: https://dtel-ix.net/en/ix/stats
+* dtel-ix: https://dtel-ix.net/en/ix/st
 * EdgeIX Sydney: https://metrics.edgeix.net
 * EPIX.Katowice: https://www.epix.net.pl/narzedzia/statystyki-epix/
 * EPIX.Warsaw: https://www.epix.net.pl/narzedzia/statystyki-epix/
@@ -36,9 +36,9 @@ The selected members of the "1 TeraBit Club" are (as of 03/06/2025):
 * Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
 * ERA-IX: https://www.era-ix.com/statistics
-* Espanix: http://stats.espanix.net/
+* Espanix: https://www.espanix.net/stats/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
-* France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
+* France-IX Paris: https://www.franceix.net/en/infrastructure/statistics/
 * giganet.ua: https://giganet.ua/en/statistics
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
@@ -57,9 +57,9 @@ The selected members of the "1 TeraBit Club" are (as of 03/06/2025):
 * MSK-IX: https://www.msk-ix.ru/en/traffic/
 * Namex IXP: https://www.namex.it/statistics/
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
-* NetNod Stockholm: https://www.netnod.se/ix-stats/sums/Stockholm.html
+* NetNod Stockholm: https://www.netnod.se/ix/statistics#region=stockholm
 * Netix.net: https://www.netix.net/graphs
-* NLix: https://www.nl-ix.net/locations/frankfurt/
+* NLix: https://www.nl-ix.net/about/about-our-network/eu-stats/
 * NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
 * NIX.CZ: https://www.nix.cz/en
 * OpenIXP: https://openixp.net/
