@@ -6,7 +6,7 @@ This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP ca
 
 The "1 TeraBit Club" currently consists of 69 members.
 
-The selected members of the "1 TeraBit Club" are (as of 03/06/2025):
+The selected members of the "1 TeraBit Club" are (as of 08/27/2025):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BCIX: https://www.bcix.de/en/traffic
