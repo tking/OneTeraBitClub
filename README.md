@@ -32,6 +32,7 @@ The selected members of the "1 TeraBit Club" are (as of 09/05/2025):
 * Equinix San Jose: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Sao Paulo: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Singapore: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Sydney: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Tokyo: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
