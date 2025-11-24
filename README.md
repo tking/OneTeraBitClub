@@ -6,7 +6,7 @@ This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP ca
 
 The "1 TeraBit Club" currently consists of 73 members.
 
-The selected members of the "1 TeraBit Club" are (as of 09/24/2025):
+The selected members of the "1 TeraBit Club" are (as of 11/18/2025):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BCIX: https://www.bcix.de/en/traffic
@@ -49,6 +49,7 @@ The selected members of the "1 TeraBit Club" are (as of 09/24/2025):
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
+* IX-Denver: https://ix-denver.org/technical/traffic/
 * JKT-IX: https://ixpmanager.jktix.com/statistics/ixp
 * JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
