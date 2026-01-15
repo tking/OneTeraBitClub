@@ -4,9 +4,9 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 75 members.
+The "1 TeraBit Club" currently consists of 77 members.
 
-The selected members of the "1 TeraBit Club" are (as of 11/24/2025):
+The selected members of the "1 TeraBit Club" are (as of 16/01/2026):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BCIX: https://www.bcix.de/en/traffic
@@ -43,6 +43,7 @@ The selected members of the "1 TeraBit Club" are (as of 11/24/2025):
 * France-IX Paris: https://www.franceix.net/en/infrastructure/statistics/
 * Frys-IX: https://ixpmanager.frys-ix.net/statistics/ixp
 * giganet.ua: https://giganet.ua/en/service/global-peering
+* GetaFIX Manila: https://ixp.getafix.ph/statistics/infrastructure/
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
@@ -58,6 +59,7 @@ The selected members of the "1 TeraBit Club" are (as of 11/24/2025):
 * KCIX: https://www.kcix.net/stats.php
 * LINX: https://portal.linx.net/okta-login
 * LONAP: https://www.lonap.net/traffic
+* Megaport MegaIX Frankfurt: https://www.megaport.com/solutions/ix-statistics/
 * MICE: http://micelg.usinternet.com/export/graph_2624.html
 * MIX: https://www.mix-it.net/
 * MSK-IX: https://www.msk-ix.ru/en/traffic/
