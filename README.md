@@ -43,6 +43,7 @@ The selected members of the "1 TeraBit Club" are (as of 11/24/2025):
 * France-IX Paris: https://www.franceix.net/en/infrastructure/statistics/
 * Frys-IX: https://ixpmanager.frys-ix.net/statistics/ixp
 * giganet.ua: https://giganet.ua/en/service/global-peering
+* GR-IX: https://www.gr-ix.gr/traffic/
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
