@@ -76,7 +76,7 @@ The selected members of the "1 TeraBit Club" are (as of 11/24/2025):
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
 * SIX: https://www.seattleix.net/statistics/
 * Speed-IX: https://speed-ix.net/statistic/
-* SwissIX Zurich: https://www.swissix.ch/infrastructure/statistics/
+* SwissIX: https://www.swissix.ch/infrastructure/statistics/
 * THINX Warsaw: https://www.atman.pl/en/services/data-connection/thinx-ix/
 * Torix: https://www.torix.ca/traffic-statistics/
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
