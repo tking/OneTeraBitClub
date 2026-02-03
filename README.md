@@ -52,6 +52,8 @@ The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
 * INEX: https://www.inex.ie/ixp/statistics/ixp
 * Internet Exchange Point of Nigeria (IXPN): https://lg.ixp.net.ng/traffics/3612/AGGREGATE_TRAFFIC/
 * IX-Denver: https://ix-denver.org/technical/traffic/
+* IX.br Porto Alegre: https://ix.br/trafego/agregado/rs
+* IX.br Brasília: https://ix.br/trafego/agregado/df
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
