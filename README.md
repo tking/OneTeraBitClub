@@ -4,14 +4,14 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 77 members.
+The "1 TeraBit Club" currently consists of 78 members.
 
-The selected members of the "1 TeraBit Club" are (as of 16/01/2026):
+The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BCIX: https://www.bcix.de/en/traffic
-* Bulgarian Internet eXchange (BIX.bg): https://www.bix.bg/en/technical_information/traffic_statistics.html
 * Budapest Internet Exchange (BIX): https://www.bix.hu/en/index.php?p=graph
+* Bulgarian Internet eXchange (BIX.bg): https://www.bix.bg/en/technical_information/traffic_statistics.html
 * CABASE: https://ixp.cabase.org.ar/estadisticas.html
 * CIX-ATL: https://www.communityix.org/cix-atl-networks-traffic/
 * DataIX: https://www.dataix.eu/en
@@ -35,27 +35,28 @@ The selected members of the "1 TeraBit Club" are (as of 16/01/2026):
 * Equinix Singapore: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Sydney: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Tokyo: https://ix.equinix.com/home/locations-and-traffic/
-* Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
 * Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
+* Equinix Washington DC: https://ix.equinix.com/home/locations-and-traffic/
 * ERA-IX: https://www.era-ix.com/statistics
 * Espanix: https://www.espanix.net/stats/
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
 * France-IX Paris: https://www.franceix.net/en/infrastructure/statistics/
 * Frys-IX: https://ixpmanager.frys-ix.net/statistics/ixp
-* giganet.ua: https://giganet.ua/en/service/global-peering
 * GetaFIX Manila: https://ixp.getafix.ph/statistics/infrastructure/
+* giganet.ua: https://giganet.ua/en/service/global-peering
+* GR-IX.gr: https://www.gr-ix.gr/traffic/
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
 * Internet Exchange Point of Nigeria (IXPN): https://lg.ixp.net.ng/traffics/3612/AGGREGATE_TRAFFIC/
-* IX.br Fortalzea: https://ix.br/trafego/agregado/ce
-* IX.br São Paulo: https://ix.br/trafego/agregado/sp
-* IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
 * IX-Denver: https://ix-denver.org/technical/traffic/
+* IX.br Fortalzea: https://ix.br/trafego/agregado/ce
+* IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
+* IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * JKT-IX: https://ixpmanager.jktix.com/statistics/ixp
 * JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
-* JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
+* JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * KCIX: https://www.kcix.net/stats.php
 * LINX: https://portal.linx.net/okta-login
 * LONAP: https://www.lonap.net/traffic
@@ -65,19 +66,20 @@ The selected members of the "1 TeraBit Club" are (as of 16/01/2026):
 * MSK-IX: https://www.msk-ix.ru/en/traffic/
 * Namex IXP: https://www.namex.it/statistics/
 * NAPAfrica: https://www.napafrica.net/peering-traffic/
-* NetNod Stockholm: https://www.netnod.se/ix/statistics#region=stockholm
 * Netix.net: https://www.netix.net/graphs
+* NetNod Stockholm: https://www.netnod.se/ix/statistics#region=stockholm
+* NIX.CZ: https://www.nix.cz/en
 * NLix: https://www.nl-ix.net/about/about-our-network/eu-stats/
 * NYIIX New York: https://www.nyiix.net/locations/nyiix-new-york/nyiix-ny-statistics/
-* NIX.CZ: https://www.nix.cz/en
 * OpenIXP: https://openixp.net/
 * peering.cz: https://www.peering.cz/
 * PIT Chile: https://www.pitchile.cl/wp/graficos-con-indicadores/pit-chile-trafico-total/
 * SAIX: https://www.saix.sa/en/services/statistics/
 * Serbian Open Exchange: https://www.sox.rs/sr/traffic/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
-* Speed-IX: https://speed-ix.net/statistic/
 * SIX: https://www.seattleix.net/statistics/
+* Speed-IX: https://speed-ix.net/statistic/
+* SwissIX: https://www.swissix.ch/infrastructure/statistics/
 * THINX Warsaw: https://www.atman.pl/en/services/data-connection/thinx-ix/
 * Torix: https://www.torix.ca/traffic-statistics/
 * TPIX: http://www.tpix.pl/en/statystyki_en.html
