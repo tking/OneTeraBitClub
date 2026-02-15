@@ -4,9 +4,9 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 80 members.
+The "1 TeraBit Club" currently consists of 81 members.
 
-The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
+The selected members of the "1 TeraBit Club" are (as of 15/02/2026):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
 * BBIX Tokyo: https://www.bbix.net/en/service/ix/traffic-graph/
 * BBIX Osaka: https://www.bbix.net/en/service/ix/traffic-graph/
@@ -80,6 +80,7 @@ The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
 * Serbian Open Exchange: https://www.sox.rs/sr/traffic/
 * SGIX: https://www.sgix.sg/services/traffic-statistics/
 * SIX: https://www.seattleix.net/statistics/
+* SIX.SK: https://six.sk/index.php?lang=en&page=link_load
 * Speed-IX: https://speed-ix.net/statistic/
 * SwissIX: https://www.swissix.ch/infrastructure/statistics/
 * THINX Warsaw: https://www.atman.pl/en/services/data-connection/thinx-ix/
