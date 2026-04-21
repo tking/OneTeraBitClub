@@ -88,7 +88,7 @@ The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
 * True-IX: https://trueix.trueintergateway.com/statistics/ixp
 * UAE-IX: https://www.uae-ix.net/en/location/traffic-statistics
 * VIX: https://www.vix.at/vix_statistics.html
-* 1-ix.eu: https://1-ix.eu/
+* 1-IX.EU: https://1-ix.eu/
 
 Please create a Pull Request if you find a missing member of the "1 TeraBit Club"!
 
