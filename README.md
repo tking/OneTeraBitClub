@@ -16,7 +16,7 @@ The selected members of the "1 TeraBit Club" are (as of 03/02/2026):
 * Bulgarian Internet eXchange (BIX.bg): https://www.bix.bg/en/technical_information/traffic_statistics.html
 * CABASE: https://ixp.cabase.org.ar/estadisticas.html
 * CIX-ATL: https://www.communityix.org/cix-atl-networks-traffic/
-* DataIX: https://www.dataix.eu/en
+* GNM-IX: https://gnm-ix.net/en
 * DE-CIX Dallas: https://www.de-cix.net/en/locations/dallas/statistics
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
 * DE-CIX Madrid: https://www.de-cix.net/en/locations/madrid/statistics
