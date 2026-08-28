@@ -4,7 +4,7 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 83 members.
+The "1 TeraBit Club" currently consists of 85 members.
 
 The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
@@ -16,7 +16,6 @@ The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * Bulgarian Internet eXchange (BIX.bg): https://www.bix.bg/en/technical_information/traffic_statistics.html
 * CABASE: https://ixp.cabase.org.ar/estadisticas.html
 * CIX-ATL: https://www.communityix.org/cix-atl-networks-traffic/
-* DataIX: https://www.dataix.eu/en
 * DE-CIX Chicago: https://www.de-cix.net/en/locations/chicago/statistics
 * DE-CIX Dallas: https://www.de-cix.net/en/locations/dallas/statistics
 * DE-CIX Frankfurt: https://de-cix.net/en/locations/frankfurt/statistics
@@ -47,15 +46,18 @@ The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * Frys-IX: https://ixpmanager.frys-ix.net/statistics/ixp
 * GetaFIX Manila: https://ixp.getafix.ph/statistics/infrastructure/
 * giganet.ua: https://giganet.ua/en/service/global-peering
+* GNM-IX: https://gnm-ix.net/en
 * GR-IX.gr: https://www.gr-ix.gr/traffic/
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
 * Internet Exchange Point of Nigeria (IXPN): https://lg.ixp.net.ng/traffics/3612/AGGREGATE_TRAFFIC/
 * IX-Denver: https://ix-denver.org/technical/traffic/
+* IX.br Brasília: https://ix.br/trafego/agregado/df
 * IX.br Fortalzea: https://ix.br/trafego/agregado/ce
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
+* IX.br Porto Alegre: https://ix.br/trafego/agregado/rs
 * JKT-IX: https://ixpmanager.jktix.com/statistics/ixp
 * JPIX Tokyo: https://www.jpix.ad.jp/en/technical_traffic.php
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
