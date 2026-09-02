@@ -63,8 +63,8 @@ The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * KCIX: https://www.kcix.net/stats.php
-* LINX LON1: https://portal.linx.net/services/lans-snmp
-* LINX LON2: https://portal.linx.net/services/lans-snmp
+* LINX LON1: https://portal.linx.net/services/lans-snmp/lon1
+* LINX LON2: https://portal.linx.net/services/lans-snmp/lon2
 * LONAP: https://www.lonap.net/traffic
 * Megaport MegaIX Frankfurt: https://www.megaport.com/solutions/ix-statistics/
 * MICE: http://micelg.usinternet.com/export/graph_2624.html
