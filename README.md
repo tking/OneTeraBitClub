@@ -4,7 +4,7 @@
 
 This is a list of IXPs that are members of the fancy "1 TeraBit Club". An IXP can only be a member of the "1 TeraBit Club" if a publicly available traffic graph shows a peak traffic of more than 1 Tbps!
 
-The "1 TeraBit Club" currently consists of 85 members.
+The "1 TeraBit Club" currently consists of 86 members.
 
 The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * AMS-IX Amsterdam: https://www.ams-ix.net/ams/documentation/total-stats
@@ -63,7 +63,8 @@ The selected members of the "1 TeraBit Club" are (as of 08/28/2026):
 * JPNAP Osaka: https://www.jpnap.net/en/ix/traffic.html#jpnap-osaka-traffic
 * JPNAP Tokyo: https://www.jpnap.net/en/ix/traffic.html#jpnap-tokyo-traffic
 * KCIX: https://www.kcix.net/stats.php
-* LINX: https://portal.linx.net/okta-login
+* LINX LON1: https://portal.linx.net/services/lans-snmp/lon1
+* LINX LON2: https://portal.linx.net/services/lans-snmp/lon2
 * LONAP: https://www.lonap.net/traffic
 * Megaport MegaIX Frankfurt: https://www.megaport.com/solutions/ix-statistics/
 * MICE: http://micelg.usinternet.com/export/graph_2624.html
